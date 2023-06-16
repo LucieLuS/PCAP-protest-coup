@@ -15,8 +15,11 @@
 
 "This article considers the political trajectory of states following coups. We argue that external reactions to coups play important roles in whether coup leaders move toward authoritarianism or democratic governance. When supported by external democratic actors, coup leaders have an incentive to push for elections to retain external support and consolidate domestic legitimacy. When condemned, coup leaders are apt to trend toward authoritarianism to assure their survival. We test our argument by considering how international responses to coups from states and international organizations influence coup states’ political trajectories. Our findings indicate that international actors play key roles in determining democracy levels of coup-born regimes."
 
-
 *our paper could pose a direct challenge to the argument. That is, external influence can be predicted once coups actually happen.*
 
 04. Shannon, M., Thyne, C., Hayden, S., & Dugan, A. (2015). The International Community's Reaction to Coups. Foreign Policy Analysis, 11, 363-376.
+
+
 "This paper explores what drives global actors to react to coups. Our theory differentiates between normative concerns (for example, protection of democracy) and material interests (for example, protection of oil exports) as potential determinants of international responses to coups. We argue that coups against democracies, coups after the Cold War, and coups in states heavily integrated into the international community are all more likely to elicit global reaction. Using newly collected data, we explore the number of signals that states and IOs send to coup states from 1950 to 2011. The analyses reveal that coups against democracies and wealthy states draw more attention. States react when democracies are challenged by coups, while IOs react to coups in Africa and coups during the post-Cold War period. We surprisingly find that heavy traders and oil-rich states do not necessarily receive more reaction, suggesting that international actors are more driven by normative concerns than material interests when reacting to coups."
+
+*very relevant
