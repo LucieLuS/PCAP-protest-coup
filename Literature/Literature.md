@@ -24,4 +24,10 @@
 
 "Using the effect of cellphones on violence as an example, this article presents a quantitative assessment of reporting bias in a micro-level analysis. Comparing media-based event reports and those from military sources, the results show that the purported violence-increasing effect of cellphone coverage is partly due to higher reporting rates of violence in cellphone-covered areas. A simple diagnostic procedure for this problem is implemented. Applied to the analysis of cellphones and violence in Africa, it produces a pattern that is consistent with reporting bias driving much of the effect found in the Pierskalla and Hollenbach (2013) study about this topic."
 
-*ICT, information accessibility is a key variable for media reporting.
+*ICT, information accessibility is a key variable for media reporting.*
+
+07. Zhukov, Y.M., & Baum, M.A. (2016). Reporting Bias and Information Warfare.
+
+"By systematically under or over-reporting violence by different actors, media organizations convey potentially contradictory information about how a conflict is likely to unfold, and whether outside intervention is necessary to stop it. These reporting biases affect not only statistical inference, but also public knowledge and policy preferences. Using new event data on the ongoing armed conflict in Eastern Ukraine, we perform parallel analyses of data from pro-government, pro-rebel and third party sources. We show that actor-specific reporting bias can yield estimates with vastly different implications for conflict resolution: Ukrainian sources predict an equilibrium with frequent unilateral escalation by rebels, rebel sources predict unilateral escalation by government troops, while Russian and international sources predict that transgressions by either side should be quite rare. Experimental evidence suggests that news consumers tend to support intervention against whichever side is shown to be committing the violence, while news reports without information about actors and tactics reduce support for intervention. We argue that these kinds of reporting biases could potentially make the conflict more difficult to resolve – hardening local attitudes against negotiated settlement, while reducing outside support for third-party intervention."
+
+*prediection, violance level, third-party intervention and conflict resolution*
