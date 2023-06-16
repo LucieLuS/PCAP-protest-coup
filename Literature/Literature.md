@@ -20,3 +20,8 @@
 
 "we explore whether political violent events that occur close to modern communication networks are systematically better reported than others. Our analysis approximates information availability by the level of detail provided about the date of each political violent event in Africa from 2008 to 2010 and finds that although access to communication technology improves reporting, the size of the effect is very small."
 
+06. Weidmann, N.B. (2016). A Closer Look at Reporting Bias in Conflict Event Data. American Journal of Political Science, 60, 206-218.
+
+"Using the effect of cellphones on violence as an example, this article presents a quantitative assessment of reporting bias in a micro-level analysis. Comparing media-based event reports and those from military sources, the results show that the purported violence-increasing effect of cellphone coverage is partly due to higher reporting rates of violence in cellphone-covered areas. A simple diagnostic procedure for this problem is implemented. Applied to the analysis of cellphones and violence in Africa, it produces a pattern that is consistent with reporting bias driving much of the effect found in the Pierskalla and Hollenbach (2013) study about this topic."
+
+*ICT, information accessibility is a key variable for media reporting.
