@@ -10,3 +10,10 @@
 "This article considers how domestic protests influence coups. Protests signal regime illegitimacy, which incentivizes coups and provides a favorable climate for postcoup reforms. Protests also ease coordination obstacles among coup plotters and make international actors less likely to punish coup leaders. We expect these signaling processes to be strongest when protests take place near the capital or are nonviolent. Our empirical analyses introduce event-level protest data from the Social, Political, and Economic Event Database project into the coup literature. Examining a global sample of coup attempts from 1951 to 2005, we find strong support for our theoretical expectations. Our discussion provides implications for scholars studying coups and nonviolent movements more generally. It also speaks to the influence of external actors on social uprisings and highlights the importance of geographical disaggregation in the study of dissident behavior."
 
 *important and very relevant*
+
+03. Thyne, C., & Hitch, K. (2020). Democratic versus Authoritarian Coups: The Influence of External Actors on States’ Postcoup Political Trajectories. Journal of Conflict Resolution, 64, 1857 - 1884.
+
+"This article considers the political trajectory of states following coups. We argue that external reactions to coups play important roles in whether coup leaders move toward authoritarianism or democratic governance. When supported by external democratic actors, coup leaders have an incentive to push for elections to retain external support and consolidate domestic legitimacy. When condemned, coup leaders are apt to trend toward authoritarianism to assure their survival. We test our argument by considering how international responses to coups from states and international organizations influence coup states’ political trajectories. Our findings indicate that international actors play key roles in determining democracy levels of coup-born regimes."
+
+
+*our paper could pose a direct challenge to the argument. That is, external influence can be predicted once coups actually happen.*
