@@ -9,6 +9,8 @@ Description: This dataset identifies all military and non-military coup attempts
 
 Colpus 1.1 Dataset [1946-2022, includes micro-states]
 
+- Number of observations [2000-2022]: 79
+
 ## Coup d'État Project 
 
 https://clinecenter.illinois.edu/project/research-themes/democracy-and-development/coup-detat-project
@@ -19,6 +21,12 @@ Dataset v2.1.2 - This version of the dataset improves on the data published in D
 
 
 Codebook v2.1.2 - This 16-page document provides a description of the Cline Center's Coup d’État Project Dataset. The first section of this codebook provides a summary of the different versions of the data. The second section provides a succinct definition of a coup d’état used by the Coup d’État Project and an overview of the categories used to differentiate the wide array of events that meet the project's definition. It also defines coup outcomes. The third section describes the methodology used to produce the data.
+
+- Number of observations [2000-2022]: 119 (excluding conspiracy)
+
+## Combined the two:
+- Number of observations [2000-2022]: 128
+
 
 ## Wikipedia
 
